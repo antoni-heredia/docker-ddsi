@@ -12,4 +12,4 @@ foo@bar:~$ docker-compose up
 
 ```
 
-Para entrar simplemente entrar en la URL: localhost:8080
+Para entrar simplemente usar en el navegador la URL: localhost:8080
