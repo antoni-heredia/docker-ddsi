@@ -11,3 +11,5 @@ Para iniciar el contenedor simplemente ejecutar:
 foo@bar:~$ docker-compose up
 
 ```
+
+Para entrar simplemente entrar en la URL: localhost:8080

@@ -8,10 +8,31 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Festival Indie</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand">
+        <img style="max-width:100px; margin-top: -7px;"
+             src="/image/logo.jpg">
+    </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item">
+        <a class="nav-link" href="#">Director</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Grupo</a>
+      </li>
+    </ul>
+
+  </div>
+</nav>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
